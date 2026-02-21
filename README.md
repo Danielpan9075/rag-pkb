@@ -15,7 +15,7 @@ This project builds an enterprise-grade RAG (Retrieval-Augmented Generation) per
 ```
 rag-pkb/
 ├── README.md                      # Project documentation (English)
-├── README.zh-CN.md               # Project documentation (Chinese)
+├── README_zh.md                  # Project documentation (Chinese)
 ├── control-services.sh             # Service control script
 ├── config/                        # Configuration directory
 │   └── ollama/                   # Ollama model configuration
@@ -714,4 +714,4 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 
 ---
 
-For Chinese documentation, see [README.zh-CN.md](README.zh-CN.md)
+For Chinese documentation, see [README_zh.md](README_zh.md)
