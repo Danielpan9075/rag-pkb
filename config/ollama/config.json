@@ -1,0 +1,5 @@
+{
+  "num_gpu": 1,
+  "metal": true,
+  "num_ctx": 4096
+}

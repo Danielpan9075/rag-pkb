@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+.RAG服务开关.app/
+
+# 环境变量
+.env
+.env-local
+deploy/dify/docker/.env
+deploy/dify/docker/middleware.env
+
+# 日志
+logs/
+*.log
+
+# 数据
+data/
+deploy/dify/docker/volumes/
+
+# IDE
+.vscode/
+.idea/
+
+# 临时文件
+*.tmp
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+venv/
+.venv/
+
+# Docker
+docker-compose.override.yaml
